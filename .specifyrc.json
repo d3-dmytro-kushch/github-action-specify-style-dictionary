@@ -1,5 +1,5 @@
 {
-  "repository": "@specifyapp/Seeds",
+  "repository": "@acme-inc/all-designs-data",
   "head": "specify",
   "base": "main",
   "rules": [
